@@ -7,12 +7,12 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <button id="popupBtn">Klick mich!</button>
+    <button id="popupBtn">Klick here!</button>
 
     <div id="myPopup" class="popup">
         <div class="popup-content">
             <span class="close">&times;</span>
-            <p>Dies ist dein Pop-up-Inhalt. Hier findest du Informationen über verschiedene Betrugsmaschen und wie du dich davor schützen kannst.</p>
+            <p>use a simple and easy to guess password.</p>
         </div>
     </div>
 
